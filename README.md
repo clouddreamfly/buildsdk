@@ -6,4 +6,4 @@ python27
 depends: Tkinter、py2exe
 
 ## 主界面图
-![buildsdk 界面](https://github.com/clouddreamfly/buildsdk/blob/master/doc/sample.png)
+![buildsdk 界面](https://github.com/clouddreamfly/buildsdk/blob/main/doc/sample.png)
